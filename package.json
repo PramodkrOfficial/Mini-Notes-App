@@ -1,0 +1,15 @@
+{
+  "name": "mini-notes-app",
+  "version": "1.0.0",
+  "description": "It is a notebook type app which used to store data like docs file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pramod Kr",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  }
+}
