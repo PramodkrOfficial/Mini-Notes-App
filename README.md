@@ -16,7 +16,7 @@
     
    ## Step 9:- move to frontend npm install npm run dev
     
-   ## Step 10:- move backend npm install npm start
+   ## Step 10:- move backend npm install npx nodemon index.js (file name)
 
 
 # OUTPUT:-
